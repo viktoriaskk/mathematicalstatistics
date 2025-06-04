@@ -1,2 +1,2 @@
-# mathematicalstatistics
-Mathematical Statistics discipline project
+# Проект по дисциплине "Математическая статистика" 
+Исследование качества генераторов случайных чисел
